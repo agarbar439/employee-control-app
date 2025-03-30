@@ -1,36 +1,32 @@
-Employee Management Application
-This application is a backend solution built with Spring Boot and a frontend in React, designed to manage employees through CRUD operations (Create, Read, Update, Delete). It also includes a search functionality to easily filter employees and an option to export data to an Excel file.
+# Employee Management Application
 
-Main Features
-Employee Management:
+This application is a backend solution built with **Spring Boot** and a frontend in **React**, designed to manage employees through CRUD operations (Create, Read, Update, Delete). It also includes a **search functionality** for filtering employees and an option to **export data to an Excel file**.
 
-Add, edit, and delete employees.
+## Features
 
-View full details of each employee.
+- **Employee Management**:
+  - Add, edit, and delete employee records.
+  - View detailed information for each employee.
+  
+- **Advanced Search**:
+  - Filter employees by various criteria to easily find specific records.
 
-Advanced Search:
+- **Excel Export**:
+  - Export the employee list to an Excel file for further analysis or distribution.
 
-Filter employees by various criteria for easy record retrieval.
+---
 
-Excel Export:
+## Technologies Used
 
-Export the employee list to an Excel file for further analysis or distribution.
+### Backend
+- **Spring Boot** – Framework for building the backend and handling CRUD operations.
+- **Spring Data JPA** – For seamless database interaction.
+- **Apache POI** – Used for exporting employee data to Excel.
 
-Technologies Used
-Backend:
+### Frontend
+- **React** – Frontend library for building the user interface.
+- **Axios** – For making API requests and handling communication with the backend.
 
-Spring Boot for building the server and handling CRUD operations.
+### Database
+- **H2 Database** (or specify the database you are using, e.g., MySQL, PostgreSQL).
 
-Spring Data JPA for database interactions.
-
-Apache POI for exporting data to Excel.
-
-Frontend:
-
-React for building the user interface.
-
-Axios for communication with the backend via RESTful API.
-
-Database:
-
-H2 (You can specify the database you are using).
