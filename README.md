@@ -30,3 +30,4 @@ This application is a backend solution built with **Spring Boot** and a frontend
 ### Database
 - **MySQL Database**.
 
+![image](https://github.com/user-attachments/assets/6ae284de-d3e5-433b-ac18-dc440b1f0801)
