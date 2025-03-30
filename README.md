@@ -28,5 +28,5 @@ This application is a backend solution built with **Spring Boot** and a frontend
 - **Axios** – For making API requests and handling communication with the backend.
 
 ### Database
-- **H2 Database** (or specify the database you are using, e.g., MySQL, PostgreSQL).
+- **MySQL Database**.
 
